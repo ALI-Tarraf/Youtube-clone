@@ -22,7 +22,7 @@ const Navbar = () => (
         sx={{
           color: "white",
           fontWeight: "bold",
-          display: { xs: "none", sm: "none", md: "inline" },
+          display: { xs: "none", md: "inline" },
         }}
       >
         Youtube <span style={{ color: "red", fontWeight: "bold" }}> Clone</span>

@@ -24,6 +24,7 @@ const Feed = () => {
         <Sidebar
           selectedCategory={selectedCategory}
           setSelectedCategory={setSelectedCategory}
+          setVideos={setVideos}
         />
         <Typography
           className="copyright"
